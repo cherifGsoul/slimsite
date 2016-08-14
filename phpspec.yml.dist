@@ -1,0 +1,6 @@
+formatter.name: pretty
+suites:
+    cherif:
+        namespace: Cherif
+        psr4_prefix: Cherif
+        src_path: src/Cherif
